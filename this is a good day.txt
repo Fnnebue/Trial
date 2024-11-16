@@ -1,0 +1,4 @@
+<doctype html>
+today is a good day
+http://google.com
+<!html>
